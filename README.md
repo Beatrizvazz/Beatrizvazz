@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Cristina%20Vaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-cristina-vaz)
 [![Email](https://img.shields.io/badge/Email-cristinavazb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristinavazb@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Beatrizvazz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beatrizvazz)
-[![Location](https://img.shields.io/badge/Localização-Londrina%20%26%20Região%20--%20PR-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Localização-Rolândia%20%2F%20Londrina%20--%20PR-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -17,61 +17,60 @@
 
 ### 🌟 Sobre Mim
 
-Sou estudante de **Ciência da Computação na Universidade Estadual de Londrina (UEL)**, com foco em desenvolvimento de software, lógica de programação e sistemas back-end. 
+Estudante de **Ciência da Computação na Universidade Estadual de Londrina (UEL)**, em busca de estágio em tecnologia, com forte interesse em desenvolvimento de software e back-end. 
 
-Possuo experiência prática em **Iniciação Científica (C++, microcontroladores, instrumentação e calibração de sinais físicos)** e na implementação de **Estruturas de Dados clássicas em C puro**. Tenho facilidade em conectar a teoria da computação com a resolução pragmática de problemas de negócios e processos operacionais, potencializando minha produtividade com o uso estratégico e responsável de **Inteligência Artificial (AI-augmented engineering)**.
+Experiência prática em **pesquisa e iniciação científica** envolvendo programação em **C++**, microcontroladores, instrumentação eletrônica e calibração de dispositivos ópticos. Também possuo vivência em desenvolvimento de algoritmos e **estruturas de dados clássicas em C puro**, aliando rigor técnico com o uso inteligente de **ferramentas de IA para apoiar testes, depuração e documentação**.
 
-- 🎓 **Graduação:** Bacharelado em Ciência da Computação — UEL (Previsão: 2029)
-- 🔬 **Pesquisa:** Iniciação Científica no Laboratório de Óptica e Optoeletrônica da UEL (C++, Arduino, ADS1115, Calibração)
-- 🎯 **Objetivo:** Estágio em Desenvolvimento de Software / Back-end / Tecnologia
-- ⚡ **Workflow Moderno:** Uso diário de ferramentas de IA para testes, depuração, documentação técnica e automação de processos repetitivos.
+- 🎓 **Graduação:** Bacharelado em Ciência da Computação — UEL (2025 – 2029)
+- 🔬 **Iniciação Científica:** Laboratório de Óptica e Optoeletrônica da UEL (C++, Arduino, ADS1115, Calibração)
+- 🎯 **Foco:** Estágio em Tecnologia / Desenvolvimento de Software / Back-end
+- ⚡ **Workflow Moderno:** Uso de IA como copiloto para acelerar testes, explorar cenários de borda e documentar código.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Competências Técnicas
 
-| Domínio | Tecnologias |
+| Área | Competências & Ferramentas |
 | :--- | :--- |
-| **Linguagens de Programação** | `C`, `C++`, `Python` |
-| **Sistemas & Hardware** | `Arduino IDE`, `Microcontroladores (AVR/ESP)`, `KiCad`, `FreeCAD` |
-| **Estruturas de Dados & Algoritmos** | `Pilhas (LIFO)`, `Filas (FIFO)`, `Árvores Binárias`, `Makefiles`, `Ponteiros & Gerenciamento de Memória` |
-| **Automação & Processos** | `Python Scripts`, `GitHub APIs`, `Consumo de REST APIs`, `Análise e Manipulação de Dados (CSV/JSON)` |
-| **AI & Produtividade Dev** | Pair programming assistido por IA, geração de casos de teste de borda (edge cases), documentação técnica, análise de complexidade $O(n)$ |
-| **Controle de Versão** | `Git`, `GitHub`, `GitHub Desktop` |
+| **Linguagens de Programação** | `C` (conhecimentos acadêmicos), `C++` (projeto de Iniciação Científica) |
+| **Sistemas Embarcados & Hardware** | `Arduino IDE`, `Arduino Nano`, `Conversor ADS1115`, `Display LCD 16×2` |
+| **Engenharia & Modelagem** | `KiCad` (circuitos e esquemáticos), `FreeCAD` (modelagem 3D do gabinete), `Impressão 3D` |
+| **Computação & Algoritmos** | Lógica de programação, ponteiros, estruturas de dados, compilação via `Makefile` |
+| **Instrumentação Científica** | Calibração espectral (375, 405, 488 e 520 nm), análise de leituras e consistência de medições |
+| **Ferramentas de Desenvolvimento** | `Git`, `GitHub`, `GitHub Desktop` |
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🔬 Projetos em Destaque
 
-#### 🔬 [Medidor de Potência Luminosa para LEDs e Lasers (C++ / IC)](https://github.com/Beatrizvazz/medidor-potencia-luminosa)
-> **Projeto de Iniciação Científica** no Laboratório de Óptica e Optoeletrônica da UEL sob orientação do Prof. Edson Laureto.
-- Desenvolvimento de instrumentação eletrônica de baixo custo utilizando **Arduino Nano**, conversor analógico-digital de 16 bits (**ADS1115**) e display LCD 16×2.
-- Programação de controle em **C++**, com rotinas de calibração espectral para comprimentos de onda de **375, 405, 488 e 520 nm** comparadas com padrão de laboratório.
-- Modelagem 3D do gabinete no **FreeCAD** e montagem de circuitos com auxílio do **KiCad**.
-- **IA no Processo:** Apoio na modelagem matemática das curvas de calibração e estruturação do tratamento de ruído analógico.
+#### 💡 [Medidor Secundário para Potência Luminosa (Iniciação Científica - UEL)](https://github.com/Beatrizvazz/medidor-potencia-luminosa)
+> **Laboratório de Óptica e Optoeletrônica da UEL** | Orientador: Prof. Dr. Edson Laureto  
+> Projeto vinculado à pesquisa *"Aprendizado de Linguagens Científicas"*.
+- Desenvolvimento de dispositivo de baixo custo para medição da potência luminosa de LEDs e lasers.
+- Integração de hardware com **Arduino Nano**, conversor analógico-digital de 16 bits **ADS1115** e display LCD 16×2.
+- Programação do sistema de controle e amostragem em **C++**.
+- Desenho de circuitos no **KiCad**, modelagem 3D do gabinete no **FreeCAD** e montagem de protótipo com impressão 3D.
+- Calibração de leituras para comprimentos de onda de **375, 405, 488 e 520 nm**, com análise de leituras e ajustes para melhorar a consistência das medições.
 
-#### 🎮 [Bocha Geométrica — Engine em C & Estruturas de Dados](https://github.com/Beatrizvazz/bocha-geometrica-ed1)
-> Projeto prático de **Estrutura de Dados I** na UEL focado em eficiência de memória e algoritmos.
-- Implementação modular do zero em **C puro** de **Pilha genérica**, **Fila genérica** e **Árvore Binária**.
-- Processamento de arquivos com diretivas de geometria (`.geo`) e script de simulação (`.qry`), gerando renderização gráfica vetorial em **SVG** e relatórios analíticos em **TXT**.
-- **IA no Processo:** Utilização de IA como revisora técnica para gerar cenários de teste unitários estressando limites de memória, checar vazamentos e documentar a complexidade temporal/espacial.
-
-#### 🤖 [Job Hunter & Process Automation (Python)](https://github.com/Beatrizvazz/job-hunter-automation)
-> Ferramenta de automação desenvolvida em Python para monitorar oportunidades e organizar rotinas de candidatura e acompanhamento.
-- Consumo direto da API pública do GitHub para filtrar repositórios abertos de vagas de tecnologia com matching de requisitos locais e remotos.
-- Geração automática de templates de abordagem e persistência do histórico em CSV.
+#### 🎯 [Bocha Geométrica — Motor em C & Estruturas de Dados](https://github.com/Beatrizvazz/bocha-geometrica-ed1)
+> Projeto prático desenvolvido na disciplina de **Estrutura de Dados I** na UEL.
+- Implementação modular em **C puro** de estruturas de dados clássicas: **Pilha (LIFO)**, **Fila (FIFO)** e **Árvore Binária**.
+- Processamento de arquivos com especificações geométricas (`.geo`) e script de simulação (`.qry`), gerando renderização vetorial em **SVG** e relatórios textuais em **TXT**.
+- Gerenciamento de memória dinâmica com ponteiros e automação de compilação com `Makefile`.
 
 ---
 
-### 💼 Experiência & Vivência Prática
+### 💼 Experiência Profissional Prévia
 
-Além da computação, trago uma bagagem sólida no mercado de trabalho em **atendimento, processos internos, organização de estoque e rotinas financeiras** (Filpar, Connect Cell e Aracalce). Isso me proporciona:
-- **Visão focada no usuário/cliente:** entender a dor antes de escrever o código.
-- **Resiliência e trabalho em equipe:** facilidade para interagir com diferentes áreas e resolver problemas operacionais sob metas.
+Minhas experiências anteriores no mercado de trabalho fortaleceram competências fundamentais que levo para a área de tecnologia:
+
+- **Filpar (Jovem Aprendiz):** Atendimento ao cliente, suporte administrativo, organização de dados e documentos, apoio a rotinas financeiras, pré-cobrança e utilização de sistemas internos.
+- **Connect Cell (Vendedora):** Atendimento ao cliente, organização de processos internos, controle de produtos e atuação focada em metas e comunicação.
+- **Aracalce (Freelancer):** Atendimento ao cliente, operação de caixa e organização de estoque.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beatrizvazz&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizvazz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
-</div>
+### 🤝 Competências Comportamentais
+* Raciocínio analítico e atenção aos detalhes
+* Lógica de programação e facilidade para aprender rápido
+* Comunicação clara, trabalho em equipe e responsabilidade com processos
